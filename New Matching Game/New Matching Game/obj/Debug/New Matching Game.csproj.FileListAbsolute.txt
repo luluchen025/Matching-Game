@@ -1,0 +1,11 @@
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\bin\Debug\New Matching Game.exe.config
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\bin\Debug\New Matching Game.exe
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\bin\Debug\New Matching Game.pdb
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\obj\Debug\New Matching Game.csproj.AssemblyReference.cache
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\obj\Debug\New_Matching_Game.Form1.resources
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\obj\Debug\New_Matching_Game.Properties.Resources.resources
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\obj\Debug\New Matching Game.csproj.GenerateResource.cache
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\obj\Debug\New Matching Game.csproj.CoreCompileInputs.cache
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\obj\Debug\New Matching Game.exe
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\obj\Debug\New Matching Game.pdb
+C:\Users\lulchen\source\repos\New Matching Game\New Matching Game\obj\Debug\New_Matching_Game.WinDialog.resources
